@@ -2,8 +2,8 @@
 //based on ImNodes.h file version XXX from https://github.com/Nelarius/ImNodes
 #include "imgui.h"
 #include "imgui_internal.h"
-#include "./ImNodes/ImNodes.h"
-#include "cImNodes.h"
+#include "./imnodes/imnodes.h"
+#include "cimnodes.h"
 
 
 
